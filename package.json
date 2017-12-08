@@ -1,6 +1,6 @@
 {
   "name": "react-app-rewire-postcss-modules",
-  "version": "0.1.1",
+  "version": "0.1.0",
   "description": "Configure modules on webpack to your create-react-app via react-app-rewired",
   "main": "index.js",
   "files": [
@@ -23,6 +23,6 @@
   "license": "MIT",
   "homepage": "https://github.com/Ehres/react-app-rewire-postcss-modules",
   "dependencies": {
-    "lodash.clonedeep": "^4.5.0",
+    "lodash.clonedeep": "^4.5.0"
   }
 }
