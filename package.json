@@ -1,0 +1,28 @@
+{
+  "name": "react-app-rewire-postcss-modules",
+  "version": "0.1.1",
+  "description": "Configure modules on webpack to your create-react-app via react-app-rewired",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ehres/react-app-rewire-postcss-modules.git"
+  },
+  "keywords": [
+    "webpack",
+    "react-app-rewired",
+    "create-react-app",
+    "postcss",
+    "css-modules",
+    "modules",
+    "css"
+  ],
+  "author": "Maxime Grébauval",
+  "license": "MIT",
+  "homepage": "https://github.com/Ehres/react-app-rewire-postcss-modules",
+  "dependencies": {
+    "lodash.clonedeep": "^4.5.0",
+  }
+}
